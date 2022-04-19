@@ -1,0 +1,39 @@
+++Fortnite+Release-20.20-CL-19751212-Windows
+
+Current Static/Main AES Key for v20.20:
+0xf98794e5eb4ad58d6cb0e93d534c06250c0814a50691d62ca1abafb2e7bd718f
+
+
+Dynamic Keys Found: 
+
+Name: pakchunk1002-WindowsClient.ucas
+Guid: 23213D7D8F739DE37BCA56557073DA51
+AES: 86699fd3c3d32de200260c701c8148d77d63cdccb549b8ab5ba13326d9b5b5e3
+
+Name: pakchunk1002-WindowsClient.pak
+Guid: 23213D7D8F739DE37BCA56557073DA51
+AES: 86699fd3c3d32de200260c701c8148d77d63cdccb549b8ab5ba13326d9b5b5e3
+
+Name: pakchunk1009-WindowsClient.ucas
+Guid: DC8B99FB6774F84C4C0AA8DF768B758F
+AES: 46df9eaf93f32dd902164ea8caefd3ec08cc8586fc253efcaeab575e4f5b2035
+
+Name: pakchunk1009-WindowsClient.pak
+Guid: DC8B99FB6774F84C4C0AA8DF768B758F
+AES: 46df9eaf93f32dd902164ea8caefd3ec08cc8586fc253efcaeab575e4f5b2035
+
+Name: pakchunk1002optional-WindowsClient.ucas
+Guid: 23213D7D8F739DE37BCA56557073DA51
+AES: 86699fd3c3d32de200260c701c8148d77d63cdccb549b8ab5ba13326d9b5b5e3
+
+Name: pakchunk1002optional-WindowsClient.pak
+Guid: 23213D7D8F739DE37BCA56557073DA51
+AES: 86699fd3c3d32de200260c701c8148d77d63cdccb549b8ab5ba13326d9b5b5e3
+
+Total Amount Paks: 83
+Dynamic Pak Count: 12
+
+
+AES Provided by: @xdFNLeaks / & also BenBot & fortnite-api! (@xdFNLeaks#1624)
+----------------------------------------
+https://twitter.com/xdFNLeaks
